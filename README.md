@@ -1,4 +1,4 @@
-[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/corporate.jpg)](https://mdbootstrap.com/freebies/portfolio-template/)
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/corporate.jpg)](https://mdbootstrap.com/freebies/jquery/portfolio/)
 
 # Bootstrap 4 & Material Design - Portfolio Template 
 
@@ -7,7 +7,7 @@ Free, responsive Portfolio template containing stunning, full-page Intro and dif
 ________
 
 # Live Previews: 
-## https://mdbootstrap.com/freebies/portfolio-template/
+## https://mdbootstrap.com/freebies/jquery/portfolio/
 
 # Most important features:
 
